@@ -6,6 +6,8 @@
  * @package WordPress
  */
 
+// hi from Dony
+
 /**
  * Tells WordPress to load the WordPress theme and output it.
  *
